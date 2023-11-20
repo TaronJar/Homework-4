@@ -12,6 +12,7 @@ public class Task06 {
         }
         System.out.println();
         System.out.println("Общее количество: " + COUNT);
+
     }
 
     private static boolean HasUniqueDigits(int number) {
