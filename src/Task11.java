@@ -1,6 +1,7 @@
 public class Task11 {
     public static void main(String[] args) {
         System.out.println("Задание: 11");
+
         for (int i = 1; i <= 1000; i++) {
             String n = Integer.toString(i);
             String f = "";
